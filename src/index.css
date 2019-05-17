@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.inline{
+    padding: 2em;
+}
+.inline span{
+  display: inline;
+  font-weight: bold;
+
+}
+
+.inline select{
+  margin-left: 1em;
+  width: 7em;
+  display: inline;
+}
+.chart-btn{
+  margin-left: 2em;
+}
+.spinnerDiv{
+  text-align: center;
+}
+.header{
+  background: #f8f9fa;
+}
