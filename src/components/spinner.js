@@ -13,6 +13,7 @@ class SSpinner extends Component {
        <Spinner type="grow" color="info" />
        <Spinner type="grow" color="light" />
        <Spinner type="grow" color="dark" />
+       <p>This may take a while as the backend server is running on heroku</p>
      </div>
     );
   }
